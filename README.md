@@ -4,7 +4,7 @@
 
 **Dev: tgme.cf/rfpanda**
 
-[![1](https://github.com/RFPanda/linkli/blob/main/assets/main.jpg](https://linkli.ga)
+[![1](https://github.com/RFPanda/linkli/blob/main/assets/main.jpg)](https://linkli.ga)
 
 [![2](https://github.com/RFPanda/tgme.github.io/blob/main/assets/.jpeg)](https://tgme.cf)
 [![3](https://github.com/RFPanda/tgme.github.io/blob/main/assets/.jpeg)](https://tgme.cf)
