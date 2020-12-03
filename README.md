@@ -1,6 +1,6 @@
 # [Linkli - url shortener](https://linkli.ga)
 
-**Shorten your long url*
+**Shorten your long url**
 
 **Dev: tgme.cf/rfpanda**
 
